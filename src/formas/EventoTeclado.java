@@ -7,7 +7,7 @@ import java.awt.event.KeyEvent;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 
-public class EventoTeclado extends JFrame {
+public class EventoTeclado extends Frame {
     private int iX;
     private int iY;
     private int diametro;
